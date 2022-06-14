@@ -6,4 +6,5 @@ Esse é o repositório com todos os links para as lives que já rolaram no canal
 
 | Live | Código |
 | --- | --- |
+| [[Live] Os internals do State no React #02](https://www.youtube.com/watch?v=3fjwXPO6vRE) | [Código](https://github.com/devsoutinho/react-hooks-state-a-fundo) |
 | [[LIVE] Previewer de CSS #01 - CodeChallenge](https://www.youtube.com/watch?v=qmr63COVyMo) | [Código](https://github.com/devsoutinho/live-border-radius-previewer) |
